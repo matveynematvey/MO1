@@ -1,0 +1,1 @@
+  i  x,yf(x,y)   (s1,s2)    lambdax2-x1, y2-y1, f2-f1     angle       grad, H1
