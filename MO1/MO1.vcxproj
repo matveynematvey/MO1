@@ -144,7 +144,7 @@
   <ItemGroup>
     <ClInclude Include="Newton.h" />
     <ClInclude Include="function.h" />
-    <ClInclude Include="Pirson.h" />
+    <ClInclude Include="FastestDescent.h" />
     <ClInclude Include="vector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

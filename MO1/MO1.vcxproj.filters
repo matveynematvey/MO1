@@ -26,10 +26,10 @@
     <ClInclude Include="Newton.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="Pirson.h">
+    <ClInclude Include="vector.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="vector.h">
+    <ClInclude Include="FastestDescent.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
